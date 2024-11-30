@@ -1,6 +1,7 @@
 <h1 align="center">Subbrat</h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subbrat&" alt="subbrat" /></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=subbrat&height=350&hide_title=true&bg_color=transparent&color=fff&area=false&area_color=f00&radius=16"></p>
+<h3 align="center">most of my codes are private ;) </h3>
 <h3 align="center">might be a full-stack web-dev and Data analyst.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subbrat&label=Profile%20views&color=0e75b6&style=flat" alt="subbrat" /> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=subbrat&theme=oldie&column=8" alt="subbrat" /></a> </p>
